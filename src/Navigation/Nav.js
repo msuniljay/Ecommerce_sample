@@ -6,7 +6,7 @@ import {AiOutlineShoppingCart,AiOutlineUserAdd} from 'react-icons/ai';
 const Nav = ({query,handleInputChange}) => {
     
   return (
-    <div>Navigation
+    <div>
  <nav>
     <div className='nav-container'> 
     <input
